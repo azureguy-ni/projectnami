@@ -15,6 +15,8 @@ require_once(dirname(__FILE__) . '/translations.php');
  */
 define( 'EZSQL_VERSION', 'WP1.25' );
 
+define( 'DIRECTORY_SEPARATOR', '/' );
+
 /**
  * @since 0.71
  */
